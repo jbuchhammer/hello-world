@@ -1,0 +1,9 @@
+TODO:
+fr
+pt
+sp
+it
+
+Done:
+en/*
+de/de
